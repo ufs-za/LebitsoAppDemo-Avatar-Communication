@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 7 2013" />
+        <device id="_device_class_tablet" />
+        <device id="_device_class_phone" />
+        <device id="desktop_large" />
+        <device id="pixel_tablet" />
+        <device id="pixel_c" />
+        <device id="_device_class_desktop" />
+        <device id="pixel_9_pro" />
+        <device id="pixel_9_pro_fold" />
+        <device id="pixel_9" />
+        <pickBest>false</pickBest>
+        <target>android-35</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_demo.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_human_language_technology.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_introduction.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_main.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_sasl4_irdata.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-land/layout_screen.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large-land/activity_demo.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large-land/activity_human_language_technology.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large-land/activity_intro.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large-land/activity_introduction.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large-land/activity_main.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large-land/activity_sasl4_irdata.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large-land/layout_screen.xml">
+        <config>
+          <state>Landscape</state>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_demo.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_human_language_technology.xml">
+        <config>
+          <dock>vrheadset</dock>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_intro.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_introduction.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_main.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_sasl4_irdata.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout-large/layout_screen.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_demo.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_human_language_technology.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_introduction.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sasl4_irdata.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/custom_controller.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/layout_screen.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml">
+        <config>
+          <theme>@style/Theme.LebitsoApp</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3df7fe8d-b28c-43fd-b224-a08178a87f37" name="Changes" comment="First Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\coetzeenp\.android\avd\Pixel_8_API_35.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CoetzeeNP&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ufs-za/LebitsoAppDemo-Avatar-Communication.git",
+    "accountId": "3c298574-f464-40fe-b37f-2ae218026d64"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rksfkKDM9FHXAHAParOBFdcTwM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/coetzeenp/Documents/LebitsoApp-Android-main/app/src/main/res/values&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/coetzeenp/Desktop/LebitsoApp-Prototype_1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK Location&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\coetzeenp\Desktop\LebitsoApp-Prototype\app\src\main\res\raw" />
+      <recent name="C:\Users\coetzeenp\Desktop\LebitsoApp-Android-main\app\src\main\res\layout" />
+      <recent name="C:\Users\coetzeenp\Documents\LebitsoApp-Android-main\app\src\main\res\drawable" />
+      <recent name="C:\Users\coetzeenp\Documents\LebitsoApp-Android-main\app\src\main\res\raw" />
+      <recent name="C:\Users\coetzeenp\Documents\LebitsoApp-Android-main\app\src\main\res\layout-land" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\coetzeenp\Documents\LebitsoApp-Android-main\app\src\main\res\drawable" />
+      <recent name="C:\Users\coetzeenp\Documents\LebitsoApp-Android-main\app\src\main\res\raw" />
+      <recent name="C:\Users\coetzeenp\Documents\LebitsoApp-Android-main\app\src\main\res\layout-large-land" />
+      <recent name="C:\Users\obliv\Documents\LebitsoApp-Android-main\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="LebitsoApp.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3df7fe8d-b28c-43fd-b224-a08178a87f37" name="Changes" comment="" />
+      <created>1737114514469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737114514469</updated>
+    </task>
+    <task id="LOCAL-00001" summary="changes to layout of pages">
+      <option name="closed" value="true" />
+      <created>1737992058473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737992058473</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 30/01/2025&#10;&#10;Layout changes">
+      <option name="closed" value="true" />
+      <created>1738221007085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738221007085</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 30/01/2025&#10;&#10;Layout and comment changes">
+      <option name="closed" value="true" />
+      <created>1738237994890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738237994890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 04/02/2025&#10;&#10;Layout changes for large and landscape displays (for mobile and tablet) and adding of back buttons.">
+      <option name="closed" value="true" />
+      <created>1738659527929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738659527929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 010/02/2025&#10;&#10;This is a almost final commit.">
+      <option name="closed" value="true" />
+      <created>1739180207208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739180207208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit 019/02/2025&#10;&#10;Final commit with updated layout, navigation and videoViews">
+      <option name="closed" value="true" />
+      <created>1739946192144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739946192144</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit 019/02/2025&#10;&#10;Final commit with updated layout, navigation and videoViews">
+      <option name="closed" value="true" />
+      <created>1739965370937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739965370937</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit 019/02/2025&#10;&#10;Final commit with updated layout, navigation and videoViews">
+      <option name="closed" value="true" />
+      <created>1739965594097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739965594097</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit 019/02/2025&#10;&#10;Final commit with updated layout, navigation and videoViews">
+      <option name="closed" value="true" />
+      <created>1739965792036</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739965792036</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 019/02/2025&#10;&#10;New commit no videos with updated layout, navigation and videoViews">
+      <option name="closed" value="true" />
+      <created>1739965897859</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739965897859</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit 019/02/2025&#10;&#10;New commit no videos with updated layout, navigation and videoViews">
+      <option name="closed" value="true" />
+      <created>1740141020542</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740141020542</updated>
+    </task>
+    <task id="LOCAL-00012" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1740381580336</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740381580336</updated>
+    </task>
+    <task id="LOCAL-00013" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1740382814079</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740382814079</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Branch19_02_2025" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="changes to layout of pages" />
+    <MESSAGE value="Create local.properties" />
+    <MESSAGE value="commit 30/01/2025&#10;&#10;Layout changes" />
+    <MESSAGE value="commit 30/01/2025&#10;&#10;Layout and comment changes" />
+    <MESSAGE value="commit 04/02/2025&#10;&#10;Layout changes for large and landscape displays (for mobile and tablet) and adding of back buttons." />
+    <MESSAGE value="commit 010/02/2025&#10;&#10;This is a almost final commit." />
+    <MESSAGE value="commit 019/02/2025&#10;&#10;Final commit with updated layout, navigation and videoViews" />
+    <MESSAGE value="commit 019/02/2025&#10;&#10;New commit no videos with updated layout, navigation and videoViews" />
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.lebitsoapp">
+          <value>
+            <CheckInfo lastCheckTimestamp="1740381583520" />
+          </value>
+        </entry>
+        <entry key="com.example.lebitsoapp.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1740381583523" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
