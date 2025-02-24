@@ -1,5 +1,7 @@
 # Labitso App - Draft
 
+(ICDF and DSAC Logos)
+
 ## Introduction
 Labitso is an Android application prototype aimed at exploring the potential of Machine Learning algorithms to develop a text-to-avatar model for South African Sign Language (SASL). 
 Unlike traditional sign-to-text translation, which faces significant challenges due to the complexity of sign language (involving facial expressions, hand gestures, and body language), this project focuses on text-to-avatar conversion.
