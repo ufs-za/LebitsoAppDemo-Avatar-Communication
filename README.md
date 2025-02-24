@@ -1,4 +1,4 @@
-# Labitso App
+# Labitso App - Draft
 
 ## Introduction
 Labitso is an Android application prototype aimed at exploring the potential of Machine Learning algorithms to develop a text-to-avatar model for South African Sign Language (SASL). 
