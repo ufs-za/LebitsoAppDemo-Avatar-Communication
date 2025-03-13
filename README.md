@@ -8,16 +8,16 @@ The app will also act as a portal to current research surrounding SASL and the D
 The primary goal of the project is to develop a functional Android application that facilitates accessibility and innovation in Deaf research. The app will act as a platform for Human Language Technology (HLT) exploration within the South African Deaf community.
 
 ## Key Objectives:
-•	Serve as a platform for Deaf research and Human Language Technology exploration.
-•	Introduce users to the South African Deaf community.
-•	Enhance accessibility through SASL GIFs for users who may struggle with text-based navigation.
-•	Provide SASL video explanations for each section of the app.
-•	Include feedback functionality to gather insights from users. Feedback will be provided in SASL and that of plain text.
+•	Serve as a platform for Deaf research and Human Language Technology exploration.\
+•	Introduce users to the South African Deaf community.\
+•	Enhance accessibility through SASL GIFs for users who may struggle with text-based navigation.\
+•	Provide SASL video explanations for each section of the app.\
+•	Include feedback functionality to gather insights from users. Feedback will be provided in SASL and that of plain text.\
 •	Establish a community-driven repository for SASL research artifacts.
 
 ## Features
-•	Testing accessible UI design for Deaf users.
-•	SASL based communication on elements of the application.
+•	Testing accessible UI design for Deaf users.\
+•	SASL based communication on elements of the application.\
 •	Exploration of Human Language Technology through text-to-avatar using Machine Learning and other research.
 
 ## Setup of the Labitso App
@@ -29,15 +29,15 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/LabitsoApp.git
 4.	Build and run the project on an emulator or a physical device.
 
 ## Technologies Used
-•	Android (Java): Primary language for app development.
+•	Android (Java): Primary language for app development.\
 •	Microsoft Clip Champ: media editing tool used for creating GIFs from videos and used to compress videos.
 
 ## Requirements
 •	Android Studio version: 2024.2.2
-•	Exoplayer version: 2.19.1
-•	Gif Drawable version: 1.2.25
-•	Navigation Library version : 2.5.3
-•	WindowManager version: 1.1.0
+•	Exoplayer version: 2.19.1\
+•	Gif Drawable version: 1.2.25\
+•	Navigation Library version : 2.5.3\
+•	WindowManager version: 1.1.\
 
 ##License
 This project is licensed under the MIT License. See the LICENSE file for details.
