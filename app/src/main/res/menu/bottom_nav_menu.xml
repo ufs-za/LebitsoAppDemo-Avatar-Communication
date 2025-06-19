@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Navigation to home button on nav bar -->
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:visible="true" />
+
+    <!-- Search button on nav bar -->
+<!--    <item-->
+<!--        android:id="@+id/nav_search"-->
+<!--        android:icon="@drawable/ic_search"-->
+<!--        android:title="Search" />-->
+</menu>
