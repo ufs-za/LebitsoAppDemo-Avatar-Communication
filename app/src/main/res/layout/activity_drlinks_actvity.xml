@@ -25,24 +25,6 @@
         app:titleTextAppearance="@style/TextAppearance.AppCompat.Headline"
         app:titleTextColor="@color/white" />
 
-    <!-- Scrollable Content -->
-    <androidx.core.widget.NestedScrollView
-        android:id="@+id/scrollable"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:fillViewport="true"
-        app:layout_constraintBottom_toTopOf="@id/bottom_navigation"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/toolbar5">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:orientation="vertical"
-            android:padding="8dp">
-
             <!-- Logo -->
             <pl.droidsonroids.gif.GifImageView
                 android:id="@+id/logo"
@@ -203,9 +185,6 @@
                 app:layout_constraintBottom_toTopOf="@id/bottom_navigation"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
-
-        </LinearLayout>
-    </androidx.core.widget.NestedScrollView>
 
     <!-- Button Section-->
     <com.google.android.material.bottomnavigation.BottomNavigationView
