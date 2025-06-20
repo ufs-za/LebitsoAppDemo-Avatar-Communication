@@ -30,27 +30,5 @@ public class CollaboratorsActivity extends AppCompatActivity {
         Utility.enableTopBarBackButton(this,toolbar,MainActivity.class);
         //Setup the bottom navigation bar with its behavior
         Utility.setupBottomNavigation(this,bottomNavigationView,MainActivity.class);
-
-        //Set up button click listeners
-        Buttons();
-    }
-
-    /**
-     * Assigns click listeners to buttons and opens respective URLs when clicked.
-     */
-    private void Buttons() {
-        findViewById(R.id.btn_ent1).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
-        findViewById(R.id.btn_ent2).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
-    }
-    /**
-     * Opens a URL in the device's default browser using an implicit intent.
-     *
-     * @param url The web address to open
-     */
-    private void openUrl(String url) {
-        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
-        startActivity(intent);
     }
 }
