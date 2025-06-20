@@ -44,16 +44,16 @@ public class DRLinksActivity extends AppCompatActivity {
      */
     private void Buttons() {
         findViewById(R.id.btn_Link1).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
+                openUrl("https://pokello.ufs.ac.za/s/sasl"));
 
         findViewById(R.id.btn_Link2).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
+                openUrl("https://figshare.com/articles/dataset/South_African_Place_Names/23741892"));
 
         findViewById(R.id.btn_Link3).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
+                openUrl("https://github.com/ufs-za/human_language_technology_for_sasl"));
 
         findViewById(R.id.btn_Link4).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
+                openUrl("https://figshare.com/articles/report/Advancing_South_African_Sign_Language_for_4IR_Technological_Development/28847498"));
     }
 
     /**
