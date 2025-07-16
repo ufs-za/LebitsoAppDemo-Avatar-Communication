@@ -19,6 +19,7 @@ public class CollaboratorsActivity extends AppCompatActivity {
 
         //Set the activity to fullscreen using a utility method
         Utility.TrueFullscreen(this);
+
         //Link the activity to its XML layout file
         setContentView(R.layout.activity_collaborators);
 

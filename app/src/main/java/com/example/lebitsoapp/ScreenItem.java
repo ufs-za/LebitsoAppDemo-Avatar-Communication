@@ -7,9 +7,9 @@ package com.example.lebitsoapp;
 public class ScreenItem {
 
     //Fields to store title, description, and image resource ID
-    private String title;
-    private String description;
-    private int screenImg;
+    private final String title;
+    private final String description;
+    private final int screenImg;
 
     /**
      * Constructor to initialize the screen item with data.

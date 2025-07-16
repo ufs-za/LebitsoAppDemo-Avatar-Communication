@@ -33,10 +33,13 @@ public class Utility {
         //Set click listener to go back to the target activity
         toolbar.setNavigationOnClickListener(v -> {
             Intent intent = new Intent(activity, targetActivity);
+
             //Ensure the target activity is brought to the top of the stack
             intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
             activity.startActivity(intent);
-            activity.finish();  // Close current activity
+
+            //Close current activity
+            activity.finish();
         });
     }
 
@@ -55,7 +58,8 @@ public class Utility {
                     //Clear back stack and start home activity fresh
                     intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
                     activity.startActivity(intent);
-                    activity.finish();  //End current activity
+                    //End current activity
+                    activity.finish();
                     return true;
                 }
                 return false;

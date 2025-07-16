@@ -17,8 +17,11 @@ import com.google.android.exoplayer2.ui.PlayerView;
  */
 public class VideoPlayerActivity {
 
-    private static boolean isFullScreen = false; // Tracks current screen orientation
-    private static SimpleExoPlayer simpleExoPlayer; // Singleton ExoPlayer instance
+    // Tracks current screen orientation
+    private static boolean isFullScreen = false;
+
+    // Singleton ExoPlayer instance
+    private static SimpleExoPlayer simpleExoPlayer;
 
     /**
      * Initializes the ExoPlayer with the provided video URL and starts playback.
@@ -37,15 +40,21 @@ public class VideoPlayerActivity {
 
         //Attach player to UI
         playerView.setPlayer(simpleExoPlayer);
-        playerView.setKeepScreenOn(true); // Prevent screen from sleeping during playback
+
+        //Prevent screen from sleeping during playback
+        playerView.setKeepScreenOn(true);
 
         //Load the media from the URI
         Uri videoUri = Uri.parse(videoUrl);
         MediaItem mediaItem = MediaItem.fromUri(videoUri);
 
         simpleExoPlayer.setMediaItem(mediaItem);
-        simpleExoPlayer.prepare();         // Prepare player
-        simpleExoPlayer.setPlayWhenReady(true); // Start playback
+
+        //Prepare player
+        simpleExoPlayer.prepare();
+
+        //Start playback
+        simpleExoPlayer.setPlayWhenReady(true);
 
         return simpleExoPlayer;
     }
@@ -55,9 +64,9 @@ public class VideoPlayerActivity {
      */
     public static void onPlay() {
         if (simpleExoPlayer != null) {
-            simpleExoPlayer.seekTo(0); // Restart video
-            simpleExoPlayer.prepare(); // Re-buffer
-            simpleExoPlayer.setPlayWhenReady(true); // Play
+            simpleExoPlayer.seekTo(0); //Restart video
+            simpleExoPlayer.prepare(); //Re-buffer
+            simpleExoPlayer.setPlayWhenReady(true); //Play
         }
     }
 
