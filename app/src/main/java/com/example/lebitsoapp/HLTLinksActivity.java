@@ -43,7 +43,7 @@ public class HLTLinksActivity extends AppCompatActivity {
      */
     private void Buttons() {
         findViewById(R.id.btn_Link1).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
+                openUrl("https://github.com/ufs-za/LebitsoAppDemo-Avatar-Communication"));
         findViewById(R.id.btn_Link2).setOnClickListener(view ->
                 openUrl("https://www.ufs.ac.za/icdf/icdf-home/human-language-technology"));
         findViewById(R.id.btn_Link3).setOnClickListener(view ->
