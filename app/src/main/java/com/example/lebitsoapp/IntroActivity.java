@@ -25,16 +25,15 @@ public class IntroActivity extends AppCompatActivity {
 
     // UI components
     private ViewPager screenPager;
-    private IntroViewPagerAdapter introViewPagerAdapter;
     private TabLayout tabIndicator;
     private Button btnNext, btnBack, btnGetStarted;
     private TextView tvSkip;
     private Animation btnAnim;
 
-    // Tracks current screen position
+    //Tracks current screen position
     private int position = -1;
 
-    // List holding data for each screen in the onboarding
+    //List holding data for each screen in the onboarding
     private List<ScreenItem> mlist;
 
     @Override
@@ -72,7 +71,7 @@ public class IntroActivity extends AppCompatActivity {
      */
     private void setupViewPager() {
         screenPager = findViewById(R.id.screen_viewpager);
-        introViewPagerAdapter = new IntroViewPagerAdapter(this, mlist);
+        IntroViewPagerAdapter introViewPagerAdapter = new IntroViewPagerAdapter(this, mlist);
         screenPager.setAdapter(introViewPagerAdapter);
         tabIndicator.setupWithViewPager(screenPager); // Connect tab indicator to pager
     }
@@ -86,7 +85,7 @@ public class IntroActivity extends AppCompatActivity {
         tvSkip.setOnClickListener(v -> skipIntro());         // Skip to last screen
         btnGetStarted.setOnClickListener(v -> startMainActivity()); // Enter main app
 
-        // Handle tab selection events
+        //Handle tab selection events
         tabIndicator.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
             public void onTabSelected(TabLayout.Tab tab) {

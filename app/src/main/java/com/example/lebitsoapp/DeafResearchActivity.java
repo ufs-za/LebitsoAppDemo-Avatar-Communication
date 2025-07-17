@@ -59,7 +59,7 @@ public class DeafResearchActivity extends AppCompatActivity {
     //Buttons Method
     private void Buttons() {
         findViewById(R.id.btnVideoPlaylist).setOnClickListener(view ->
-                openUrl("https://www.google.com"));
+                openUrl("https://ufs.figshare.com/articles/dataset/SASL_Place-Name_Signs_Research_Data_Collection/29376494"));
         findViewById(R.id.btnDigitalResources).setOnClickListener(view -> {
             Intent intent = new Intent(this, DRLinksActivity.class);
             startActivity(intent);
