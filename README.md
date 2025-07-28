@@ -8,12 +8,12 @@ The app will also act as a portal to current research surrounding SASL and Human
 The primary goal of the project is to develop a functional Android application that facilitates accessibility and innovation in Deaf research. The app will act as a platform for Human Language Technology (HLT) exploration within the South African Deaf community. 
 
 ##App Features:
-•	Testing accessible/inclusive UI design for Deaf users.
-•	SASL-based communication using GIFs for buttons and videos translated into SASL.
-•	Acts as a mobile hub for access to SASL, Human Language Technology, and Deaf Research resources.
+*	Testing accessible/inclusive UI design for Deaf users.
+*	SASL-based communication using GIFs for buttons and videos translated into SASL.
+*	Acts as a mobile hub for access to SASL, Human Language Technology, and Deaf Research resources.
 App Purpose:
-•	Exploration of Human Language Technology through text-to-avatar.
-•	Linking to associated digital resources in Deaf research and HLT.
+*	Exploration of Human Language Technology through text-to-avatar.
+*	Linking to associated digital resources in Deaf research and HLT.
 
 ## Documentation
 All documented resources pertaining to the LebitsoApp can be found within this repository in the “Documents” folder.
