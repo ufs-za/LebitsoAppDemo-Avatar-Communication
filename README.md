@@ -17,26 +17,25 @@ The primary goal of the project is to develop a functional Android application t
 *	Linking to associated digital resources in Deaf research and HLT.
 
 ## Documentation
-All documented resources pertaining to the LebitsoApp can be found within this repository in the “Documents” folder.
+All documented resources pertaining to the LebitsoApp can be found within this repository in the “Documents” folder or within the link in the LebitsoApp.
 
 ## Setup of the LebitsoApp
 To set up the LebitsoApp on your local machine, follow these steps:
-1.	Clone the repository:
-git clone https://github.com/YOUR_GITHUB_USERNAME/LebitsoApp.git
+1.	Clone the repository: git clone https://github.com/YOUR_GITHUB_USERNAME/LebitsoApp.git
 2.	Open the project in Android Studio.
 3.	Ensure you have the latest Android SDK and required dependencies installed.
 4.	Build and run the project on an emulator or a physical device.
 
 ## Technologies Used
-•	Android (Java): Primary language for app development.
-•	Microsoft Clip Champ: media editing tool used for creating GIFs from videos and used to compress videos.
+*	Android (Java): Primary language for app development.
+*	Microsoft Clip Champ: media editing tool used for creating GIFs from videos and used to compress videos.
 
 ## Requirements
-•	Android Studio version: 2024.2.2 or higher
-•	Exoplayer version: 2.19.1
-•	Gif Drawable version: 1.2.25 or higher
-•	Navigation Library version : 2.5.3 or higher
-•	WindowManager version: 1.1.0 or higher
+*	Android Studio version: 2024.2.2 or higher
+*	Exoplayer version: 2.19.1
+*	Gif Drawable version: 1.2.25 or higher
+*	Navigation Library version : 2.5.3 or higher
+*	WindowManager version: 1.1.0 or higher
 
 ## License
 This project is licensed under the MIT License.
