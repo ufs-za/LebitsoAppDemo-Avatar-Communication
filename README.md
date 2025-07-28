@@ -42,6 +42,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or collaboration opportunities, feel free to reach out:
-•	Project Maintainer: Interdisciplinary Centre for Digital Futures
-•	GitHub Issues: Open an issue in the repository.
-•	Collaboration: LebitsoApp@ufs.ac.za
+*	Project Maintainer: Interdisciplinary Centre for Digital Futures
+*	GitHub Issues: Open an issue in the repository.
+*	Collaboration: LebitsoApp@ufs.ac.za
