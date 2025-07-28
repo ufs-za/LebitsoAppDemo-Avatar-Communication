@@ -1,7 +1,7 @@
 # LebitsoApp
  
 ## Introduction
-The app will also act as a portal to current research surrounding SASL and Human Language Technology
+The LebitsoApp is a portal to current research in Human Language Technology.
 
 ## Project Scope and Objectives
 
