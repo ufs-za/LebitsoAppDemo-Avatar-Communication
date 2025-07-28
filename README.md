@@ -21,7 +21,7 @@ All documented resources pertaining to the LebitsoApp can be found within this r
 
 ## Setup of the LebitsoApp
 To set up the LebitsoApp on your local machine, follow these steps:
-1.	Clone the repository: git clone https://github.com/YOUR_GITHUB_USERNAME/LebitsoApp.git
+1.	Clone the repository: git clone https://github.com/ufs-za/LebitsoAppDemo-Avatar-Communication.git
 2.	Open the project in Android Studio.
 3.	Ensure you have the latest Android SDK and required dependencies installed.
 4.	Build and run the project on an emulator or a physical device.
